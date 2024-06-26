@@ -16,17 +16,17 @@ body{
 .span-logo{
     color:#2e2f42;
 }
-.link-nav {
+.link-nav{
     font-weight:500;
     font-size: 16px;
     line-height: 1.5%;
     letter-spacing: 0.02em;
     color: #2e2f42;
   }
-.link-nav:hover {
+.link-nav:hover{
     color: #404bbf;
   } 
-.link-nav:focus {
+.link-nav:focus{
     color: #404BBF;
   }
 .address-class-header{
