@@ -24,12 +24,12 @@ body{
     color: #2e2f42;
   }
 .nav-link:hover {
-    color: #404BBF;
+    color: #404bbf;
   } 
 .nav-link:focus {
     color: #404BBF;
   }
-address{
+.address-class-header{
     font-size: normal;
 }
 .contact-address{
@@ -44,15 +44,9 @@ address{
 .contact-address:focus{
     color:#404bbf;
 }
-address ul>li> a{
-    color:rgba(67, 68, 85, 1);
-}
 button{
     background-color: rgba(77, 90, 229, 1);
     cursor: pointer;
-}
-nav > ul > li:hover, li:focus{
-    color: rgba(64, 75, 191, 1);
 }
 
 button:active, button:focus, link:active,link:focus{
@@ -76,7 +70,7 @@ button:active, button:focus, link:active,link:focus{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     cursor: pointer;
 }
 
@@ -89,7 +83,7 @@ button:active, button:focus, link:active,link:focus{
     
 }
 
-.second-page-lists-headhead{
+.second-page-lists-head{
     font-size: 20px;
     line-height: 1.2;
     font-weight: 500;
@@ -106,8 +100,13 @@ button:active, button:focus, link:active,link:focus{
 .third-page{
     background-color: #F4F4FD;
 }
-
+.third-page-point{
+    background-color: #FFFFFF;
+}
 .third-page-head{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
