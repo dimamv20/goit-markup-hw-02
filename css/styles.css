@@ -29,6 +29,10 @@ body{
 .link-nav:focus{
     color: #404BBF;
   }
+
+address{
+    font-style: normal;
+}
 .address-class-header{
     font-size: normal;
 }
