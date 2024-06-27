@@ -134,6 +134,9 @@ button:active, button:focus, link:active,link:focus{
     color:#434455;
 }
 
+.quarter-page{
+    font-style:normal;
+}
 .quarter-page-head{
     font-size: 36px;
     line-height: 1.11;
